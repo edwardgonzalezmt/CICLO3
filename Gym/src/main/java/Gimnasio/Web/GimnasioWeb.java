@@ -27,18 +27,18 @@ import org.springframework.web.bind.annotation.RestController;
  * @author USUARIO
  */
 @RestController
-@RequestMapping("/api/Gym")
+@RequestMapping("/api/Gymmachine")
 @CrossOrigin(origins = "*", methods= {RequestMethod.GET,RequestMethod.POST,RequestMethod.PUT,RequestMethod.DELETE})
 public class GimnasioWeb {
      @GetMapping("/holaMundo")
-    public String saludad(){
+    public String saluda(){
     return "Hola Mundo";
     }
 
     @Autowired
     private ServiciosGimnasio servicio;
     @GetMapping("/all")
-    public List <Gimnasio> getFinca(){
+    public List <Gimnasio> getGimnasio(){
         return servicio.getAll();
     }
     

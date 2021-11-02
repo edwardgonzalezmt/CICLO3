@@ -22,7 +22,7 @@ import javax.persistence.Table;
  * @author USUARIO
  */
 @Entity
-@Table(name = "gym")
+@Table(name = "gymmachine")
 public class Gimnasio implements Serializable {
        @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
