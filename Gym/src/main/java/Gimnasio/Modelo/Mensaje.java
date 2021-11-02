@@ -29,7 +29,7 @@ public class Mensaje implements Serializable {
     @ManyToOne
     @JoinColumn(name="id")
     @JsonIgnoreProperties({"messages", "reservations"})
-    private Gimnasio machines;
+    private Gimnasio machine;
 
     @ManyToOne
     @JoinColumn(name="clientId")
@@ -52,12 +52,12 @@ public class Mensaje implements Serializable {
         this.messageText = messageText;
     }
 
-    public Gimnasio getMachines() {
-        return machines;
+    public Gimnasio getMachine() {
+        return machine;
     }
 
-    public void setMachines(Gimnasio machines) {
-        this.machines = machines;
+    public void setMachines(Gimnasio machine) {
+        this.machine = machine;
     }
 
     public Cliente getClient() {

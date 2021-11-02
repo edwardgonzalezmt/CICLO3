@@ -37,12 +37,12 @@ public class Gimnasio implements Serializable {
     @JsonIgnoreProperties("machines")
     private Categoria category;
     
-    @OneToMany(cascade = {CascadeType.PERSIST}, mappedBy = "machines")
-    @JsonIgnoreProperties({"machines","client"})
+    @OneToMany(cascade = {CascadeType.PERSIST}, mappedBy = "machine")
+    @JsonIgnoreProperties({"machine","client"})
     private List<Mensaje> messages;
 
-    @OneToMany(cascade = {CascadeType.PERSIST}, mappedBy = "machines")
-    @JsonIgnoreProperties({"machines","messages"})
+    @OneToMany(cascade = {CascadeType.PERSIST}, mappedBy = "machine")
+    @JsonIgnoreProperties({"machine","messages"})
     public List<Reservacion> reservations;
 
     public Integer getId() {
