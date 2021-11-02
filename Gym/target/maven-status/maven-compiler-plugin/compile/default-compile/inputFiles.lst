@@ -1,28 +1,28 @@
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Web\ReservacionWeb.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Repositorio\ReservacionRepositorio.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Interface\InterfaceReservacion.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Modelo\Categoria.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Repositorio\ClienteRepositorio.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Servicios\ServiciosCliente.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Interface\InterfaceMensaje.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Reportes\StatusReservas.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Web\CategoriaWeb.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Modelo\Cliente.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Repositorio\MensajeRepositorio.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Servicios\ServiciosGimnasio.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Servicios\ServiciosReservacion.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Interface\InterfaceCategoria.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Web\MensajeWeb.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Repositorio\GimnasioRepositorio.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Interface\InterfaceGimnasio.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Repositorio\CategoriaRepositorio.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Modelo\Reservacion.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Servicios\ServiciosCategoria.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Servicios\ServiciosMensaje.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Modelo\Gimnasio.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Modelo\Mensaje.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Web\ClienteWeb.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\GymApplication.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Interface\InterfaceCliente.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Reportes\ContadorClientes.java
-C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\Gym\src\main\java\Gimnasio\Web\GimnasioWeb.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Reportes\StatusReservas.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\GymApplication.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Modelo\Cliente.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Web\MensajeWeb.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Web\CategoriaWeb.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Repositorio\GimnasioRepositorio.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Servicios\ServiciosReservacion.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Repositorio\MensajeRepositorio.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Interface\InterfaceCliente.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Interface\InterfaceReservacion.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Servicios\ServiciosGimnasio.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Modelo\Mensaje.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Web\ClienteWeb.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Interface\InterfaceGimnasio.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Reportes\ContadorClientes.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Repositorio\ReservacionRepositorio.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Modelo\Categoria.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Modelo\Gimnasio.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Interface\InterfaceMensaje.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Web\GimnasioWeb.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Interface\InterfaceCategoria.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Repositorio\CategoriaRepositorio.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Servicios\ServiciosCategoria.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Servicios\ServiciosMensaje.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Repositorio\ClienteRepositorio.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Web\ReservacionWeb.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Servicios\ServiciosCliente.java
+C:\Users\ANDRES\Desktop\sergio arboleda\mv-retociclo3\reto 4 listo\Gym\src\main\java\Gimnasio\Modelo\Reservacion.java

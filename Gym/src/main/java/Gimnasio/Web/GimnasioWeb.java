@@ -27,7 +27,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @author USUARIO
  */
 @RestController
-@RequestMapping("/api/Gymmachine")
+@RequestMapping("/api/Machine")
 @CrossOrigin(origins = "*", methods= {RequestMethod.GET,RequestMethod.POST,RequestMethod.PUT,RequestMethod.DELETE})
 public class GimnasioWeb {
      @GetMapping("/holaMundo")
